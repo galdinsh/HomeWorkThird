@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// Console.Clear();
+// Console.Write("Введите день недели(от 1 до 7): ");
+Console.Clear();
 Console.Write("Введите день недели(от 1 до 7): ");
 int n = Convert.ToInt32(Console.ReadLine());
 while (n < 1 || n > 7)

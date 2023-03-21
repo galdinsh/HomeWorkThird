@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Анютка\\Desktop\\Обучение\\Семинар№2\\HomeWorkThird\\Task8\\Task8.csproj": {}
+    "C:\\Users\\Анютка.DESKTOP-VT2VOT1\\Desktop\\Обучение\\Семинар2\\HomeWorkThird\\Task8\\Task8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Анютка\\Desktop\\Обучение\\Семинар№2\\HomeWorkThird\\Task8\\Task8.csproj": {
+    "C:\\Users\\Анютка.DESKTOP-VT2VOT1\\Desktop\\Обучение\\Семинар2\\HomeWorkThird\\Task8\\Task8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Анютка\\Desktop\\Обучение\\Семинар№2\\HomeWorkThird\\Task8\\Task8.csproj",
+        "projectUniqueName": "C:\\Users\\Анютка.DESKTOP-VT2VOT1\\Desktop\\Обучение\\Семинар2\\HomeWorkThird\\Task8\\Task8.csproj",
         "projectName": "Task8",
-        "projectPath": "C:\\Users\\Анютка\\Desktop\\Обучение\\Семинар№2\\HomeWorkThird\\Task8\\Task8.csproj",
-        "packagesPath": "C:\\Users\\Анютка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Анютка\\Desktop\\Обучение\\Семинар№2\\HomeWorkThird\\Task8\\obj\\",
+        "projectPath": "C:\\Users\\Анютка.DESKTOP-VT2VOT1\\Desktop\\Обучение\\Семинар2\\HomeWorkThird\\Task8\\Task8.csproj",
+        "packagesPath": "C:\\Users\\Анютка.DESKTOP-VT2VOT1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Анютка.DESKTOP-VT2VOT1\\Desktop\\Обучение\\Семинар2\\HomeWorkThird\\Task8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Анютка\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Анютка.DESKTOP-VT2VOT1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
